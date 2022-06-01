@@ -1,0 +1,19 @@
+if else desicion making statement
+----------------------------------
+
+if ( jo )
+-----------------
+
+
+else (naitar , nakar)
+----------------------------------
+
+operator
+----------------------------
+< - less than 
+> - greater than
+== - double equal too
+!= - not eqaul too
+>= - greater than equal too
+<= - less than eqaul to
+
