@@ -1,7 +1,16 @@
 //what is decision making statements?
 statements in which we check some conditions which can be true or false is called decision making statements
 example
-if(a>b)
+if(a != b)
+
+Relational operators
+-------------------------------
+< - less than
+<= - less than equal to
+> - greater than
+>= - greater than equal to
+== - double equal to
+!= - not equal to
 
 // why we use decision making statements?
 in program we want to execute few line of code if some conditions is true or we want to execute another few lines of code if conditions is false 
@@ -17,7 +26,7 @@ in program we want to execute few line of code if some conditions is true or we 
     in this we check some conditions, if conditions is true then we will executes some line of codes 
     some code
     syntax 
-    if(condition)
+    if (condition)
     {
         //line 1
         //line 2

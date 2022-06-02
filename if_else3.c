@@ -4,13 +4,10 @@
 void main()
 {
     int year,answer ;
-
     printf("Enter the year  ");
     scanf("%d",&year);
-
     //check wheter given year is millinum or not
     answer=year%1000;
-
     // printf(" answer is %d",answer);
     if(answer==0)
     {
