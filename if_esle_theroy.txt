@@ -121,7 +121,6 @@ else
 -----------------------------------------------------------------------------
 switch decision making
 when we have to check many conditions on same variables as well as all condition we want to check use == operators then we can use switch decision making statement. it works only on integer,character variables.
-
 syntax 
 -------------------------------------
 switch(choice)
