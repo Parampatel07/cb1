@@ -9,5 +9,5 @@ if else
     Obese Class II	 35 - 40 
 ->Write a program to display zodiac symbol & given zodiac sign from given birth day and month as per following criteria.
 https://in.pinterest.com/pin/81698180718875314/
-->Write a program to accept male and female person birth day and month separately and calculate the compatibility for relationship using following criteria
-https://web.colby.edu/cogblog/files/2018/04/barnum-2-580x758.png 
+->Write a programe to find distance between 2 plantes that user selects.
+// user pase 2 grah e be grah ni vache no 
