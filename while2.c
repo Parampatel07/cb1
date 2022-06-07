@@ -6,6 +6,7 @@ void main()
     int name = 0, count = 0,number;
     printf("Enter how many time");
     scanf("%d",&number);
+    
     while(count<=number)
     {
         printf("name ");
