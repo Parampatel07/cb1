@@ -49,10 +49,9 @@ syntax
         line 1
         line 2
         .......
-
     }
     example 
-    for(i=1;i<10;i=i+1)
+    for(i=1 ; i<10 ; i=i+1 )
     {
 
     }
