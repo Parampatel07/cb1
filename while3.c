@@ -2,11 +2,12 @@
 #include <stdio.h>
 void main()
 {
-    int number = 1, count = 0;
-    while(count<8000)
+    int number = 1, count = 0,answer=0;
+    while(count<100)
     {
-        printf("%d ", number);
-        number = number + 2;
+        printf("%d ",answer);
+        answer = number * number;
+        number++;
         count++;
     }
 }
