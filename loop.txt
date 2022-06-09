@@ -56,16 +56,15 @@ syntax
 
     }
 --------------------------------------------------------------
+
 do while loop 
     do while loop is exit control loop. it means loop condition is always check after code in braces pair execute. if condition is true then only code in braces pair will execute next time otherwise loop exits. in any situation do while loop execute at least once.
-
     do 
     {
         line 1
         line 2
         ........
     }while(condition);
-
 what is nested loop?
 ------------------------------
 
