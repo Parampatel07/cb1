@@ -37,3 +37,11 @@ write a program to print following series (hexagonal number)
 write a program to findout power of given number using given exponent 
 
 write a program to findout all the prime number between given range 
+
+array
+---------------------------------------------------------------
+write a programe to take input of 5 number and print it
+
+write a program to take 5 number as input and then multiply them 
+
+write a program to find area of 5 triangle take all input form user

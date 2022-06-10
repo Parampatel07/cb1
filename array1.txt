@@ -1,0 +1,8 @@
+how to create array 
+datatype variable-name[size]
+
+int students[5];
+
+float marks[10];
+
+char letter[12];
