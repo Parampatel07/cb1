@@ -45,3 +45,10 @@ write a programe to take input of 5 number and print it.
 write a program to take 5 number as input and then multiply them.
 
 write a program to find area of 5 triangle take all input form user.
+
+
+multiarray 
+-----------------------------------------------------------------
+write a programe to take 5 cricketer wickets for 5 match and find highest wicket taker 
+
+write a programe to take 5 cricketer run for 5 match and find highest run scorer and highest average 
