@@ -52,3 +52,11 @@ multiarray
 write a programe to take 5 cricketer wickets for 5 match and find highest wicket taker 
 
 write a programe to take 5 cricketer run for 5 match and find highest run scorer and highest average 
+
+write a program to print string in reverse
+
+function
+------------------------------------------------------------------
+write a programe to make calculator using function 
+
+write a programe to make triangle using function and print what user gives

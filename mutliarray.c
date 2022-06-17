@@ -1,5 +1,5 @@
 // write a programe to take and print 5subject marks of 5 students
-#include <stdio.h>
+#include<stdio.h>
 void main()
 {
     int students[5][5], count, total_count, total[5], total_total;
