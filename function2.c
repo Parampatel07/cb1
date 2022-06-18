@@ -18,5 +18,4 @@ void main()
 
     result=getSum(num2,num1);
     printf("result is %d",result);
-
 }
